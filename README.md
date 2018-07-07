@@ -3,7 +3,7 @@
 
 When you just want a pizza and wanna share the feeling!
 
-Mini 'random pizza 🍕 gif' JS app bundled via [Parcel](https://parceljs.org/) (simple starter seed if u need)
+Mini 'random pizza 🍕 gif' app / simple JS starter seed bundled via [Parcel](https://parceljs.org/).
 
 ![](https://media.giphy.com/media/13KFWZ6FyFNza0/giphy.gif)
 
