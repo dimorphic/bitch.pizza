@@ -1,8 +1,8 @@
 {
   "name": "bitch.pizza",
   "version": "0.0.1",
-  "description": "",
-  "main": "",
+  "description": "🍕 now 🍕 today 🍕 all day 🍕 every day. Pizza, ok?",
+  "main": "🍕",
   "scripts": {
     "start": "npx parcel src/index.html",
     "build": "npx parcel build src/index.html",
