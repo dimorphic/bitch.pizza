@@ -9,7 +9,7 @@ Mini JS app bundled via Parcel (simple starter seed if you need).
 1. Clone repo 🙄
 2. Install deps: `$ npm install`
 3. Start dev server: `$ npm run`
-4. Code some magic
+4. Code some magic 🍕🌈
 
 ### Building
 `$ npm run build` - build will be outputed to `dist/`
