@@ -13,3 +13,6 @@ Mini JS app bundled via Parcel (simple starter seed if you need).
 
 ### Building
 `$ npm run build` - build will be outputed to `dist/`
+
+### Note:
+If using the Giphy helper be sure to replace the `GIPHY_API_KEY` constant in `src/get-giphy.js` with your own Giphy API key (https://developers.giphy.com). Ignore otherwise if just using for the Parcel starter seed.
