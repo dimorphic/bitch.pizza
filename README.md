@@ -1,4 +1,4 @@
-# bitch.pizza
+# bitch.pizza 🍕🌈
 🍕 now 🍕 today 🍕 all day 🍕 every day. Pizza, ok?
 
 When you just want a pizza and wanna share the feeling!
